@@ -83,7 +83,7 @@ To install this package on Plone 3 you need to do step 1 from
           ``Site Setup -> Add-ons`` find ``Configuration registry 1.0b1 ``
           and activate it.
        
-       3. Do step 4 from ``Installation using buildout.cfg file``.
+       3. Do steps 3 and 4 from ``Installation using buildout.cfg file``.
 
 Usage
 =====
